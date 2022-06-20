@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan filter dengan berdasarkan Tipe Kelas</description>
+   <name>TC16_Filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c017dbf5-aedf-49a0-a819-37533d71b2c3</testCaseGuid>
+</TestCaseEntity>

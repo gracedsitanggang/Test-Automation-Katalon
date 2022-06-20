@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing logout terhadap website Dicoding</description>
+   <name>TC17_Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6bc3ec7-3959-4fa6-8812-5653c9cc571d</testCaseGuid>
+</TestCaseEntity>

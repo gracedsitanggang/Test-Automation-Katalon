@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Grace Worksgraces.kerjagmail.com</name>
+   <tag></tag>
+   <elementGuidId>2e6caac0-ac15-419c-b531-cbef0eeb7e32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view_container']/div/div/div[2]/div/div/div/form/span/section/div/div/div/div/ul/li[7]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f2e1b36d-1efb-4ed1-ae03-39bc9bc76291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tgnCOd</value>
+      <webElementGuid>bc473767-2a89-4bfc-a95d-b0307d4af8b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Grace Worksgraces.kerja@gmail.com</value>
+      <webElementGuid>63ad36f5-3d4b-4c5e-8adc-ddc75cf06267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view_container&quot;)/div[@class=&quot;zWl5kd&quot;]/div[@class=&quot;DRS7Fe bxPAYd k6Zj8d&quot;]/div[@class=&quot;pwWryf bxPAYd&quot;]/div[@class=&quot;Wxwduf Us7fWe JhUD8d&quot;]/div[@class=&quot;WEQkZc&quot;]/div[@class=&quot;bCAAsb&quot;]/form[1]/span[1]/section[@class=&quot;aTzEhb&quot;]/div[@class=&quot;CxRgyd&quot;]/div[1]/div[@class=&quot;zeRELc&quot;]/div[@class=&quot;pQ0lne&quot;]/ul[@class=&quot;OVnw0d&quot;]/li[@class=&quot;JDAKTe ibdqA W7Aapd zpCp3 SmR8&quot;]/div[@class=&quot;lCoei YZVTmd SmR8&quot;]/div[@class=&quot;d2laFc&quot;]/div[@class=&quot;tgnCOd&quot;]</value>
+      <webElementGuid>361f993d-8bb6-49cb-8586-567ab656fdf6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view_container']/div/div/div[2]/div/div/div/form/span/section/div/div/div/div/ul/li[7]/div/div/div</value>
+      <webElementGuid>1e83523b-d5af-4143-88e8-7032602b2727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gracedoktrinas@gmail.com'])[1]/following::div[4]</value>
+      <webElementGuid>c533b3e2-72f4-4650-9335-316a6fcda109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grace D. Sitanggang'])[2]/following::div[5]</value>
+      <webElementGuid>614b7518-5ad1-426e-aaed-9cdb5f6bb473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div/div/div</value>
+      <webElementGuid>54fe00a7-3d10-453a-92f1-b86c0db7d083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Grace Worksgraces.kerja@gmail.com' or . = 'Grace Worksgraces.kerja@gmail.com')]</value>
+      <webElementGuid>5b3c8938-a88b-4127-bb02-175f5027f7b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

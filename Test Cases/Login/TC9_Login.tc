@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login using google account</description>
+   <name>TC9_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44a440e3-f0b8-49b9-8b6e-68c4a908c29f</testCaseGuid>
+</TestCaseEntity>

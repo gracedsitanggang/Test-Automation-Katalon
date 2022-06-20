@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Keluar</name>
+   <tag></tag>
+   <elementGuidId>bb7b8cef-3ab6-49f5-bee7-aaeae7e2c6b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.font-weight-bold.text-red-500</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/div/ul/li/div/a[7]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fc4cf585-4f63-43a5-aa24-6dfb495b4570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-weight-bold text-red-500</value>
+      <webElementGuid>2366f6b6-acde-4397-8339-794c1f3d0296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Keluar</value>
+      <webElementGuid>559c5120-0a59-4e5f-92b8-6ea462bbe675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;navbar-menu-wrapper d-flex align-items-stretch w-100&quot;]/ul[@class=&quot;navbar-nav navbar-nav-right&quot;]/li[@class=&quot;nav-item nav-profile dropdown show&quot;]/div[@class=&quot;dropdown-menu navbar-dropdown show&quot;]/a[@class=&quot;dropdown-item remove-style-link d-flex align-items-center&quot;]/span[@class=&quot;font-weight-bold text-red-500&quot;]</value>
+      <webElementGuid>85a7d108-236f-4df5-b4d7-54df8e3f5cac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/div/ul/li/div/a[7]/span</value>
+      <webElementGuid>cda79d8a-fcd5-4941-aa05-b670d4e3bdbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengaturan'])[1]/following::span[1]</value>
+      <webElementGuid>0ad86eef-23bb-4f4c-8604-812978373c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Pesanan'])[1]/following::span[2]</value>
+      <webElementGuid>ce2f24a1-ad47-4116-87cc-65ec9eed7750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifikasi'])[1]/preceding::span[1]</value>
+      <webElementGuid>919bc7be-4407-484c-8f03-ce4652ddc9d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum ada notifikasi baru untuk Anda.'])[1]/preceding::span[1]</value>
+      <webElementGuid>2cf08363-651c-488a-b44c-7665c2884dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Keluar']/parent::*</value>
+      <webElementGuid>a019f1fc-e3bc-47d0-b175-2a2530a3eccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[7]/span</value>
+      <webElementGuid>3ebb41c7-67c9-4eff-93ad-91683b23ee4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Keluar' or . = 'Keluar')]</value>
+      <webElementGuid>89e90b5d-b480-4de6-84b5-b8a83e0444c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

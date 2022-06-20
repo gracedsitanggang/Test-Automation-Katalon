@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>invalid username</description>
+   <name>TC3_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19b8e268-83d7-49e7-8fe0-7c2867ccf4cf</testCaseGuid>
+</TestCaseEntity>

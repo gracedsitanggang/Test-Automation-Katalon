@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Word = PyThOn</description>
+   <name>TC15_Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e53cafbc-1809-42c3-96cb-ab5430318631</testCaseGuid>
+</TestCaseEntity>
